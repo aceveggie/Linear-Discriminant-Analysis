@@ -1,7 +1,7 @@
 Linear-Discriminant-Analysis
 ============================
 
-A small C++ library to perform 2 class Linear Discriminant Analysis using Eigen Library for OpenCV.
+A small C++ library to perform 2 class Linear Discriminant Analysis using Eigen Library for <b>OpenCV</b>.
 
 This was highly inspired by <a href="http://www-ist.massey.ac.nz/smarsland/MLBook.html">Stephen Marshland's "Machine Learning: An Algorithmic Perspective"</a>
 implementation in Python and also based on <a href="http://www.bytefish.de/">Byte Fish </a> implementation of the LDA in C++.
