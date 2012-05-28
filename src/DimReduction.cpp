@@ -6,7 +6,7 @@ Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
 
 ORIGINAL AUTHORS: Stephen Marsland, Phillip Wagner
 
-MODIFIED BY: RAHuL KAVI
+MODIFIED BY: RAHUL KAVI
 
 # You are free to use, change, or redistribute the code in any way you wish for
 # non-commercial purposes, but please maintain the name of the original author.
