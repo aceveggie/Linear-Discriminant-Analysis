@@ -1,3 +1,25 @@
+/*
+\
+This is a re-implementation of the LDA algorithm idea in C++.
+
+Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+
+ORIGINAL AUTHORS: Phillip Wagner
+
+MODIFIED BY: RAHUL KAVI
+
+# You are free to use, change, or redistribute the code in any way you wish for
+# non-commercial purposes, but please maintain the name of the original author.
+# This code comes with no warranty of any kind.
+
+#
+# You are free to use, change, or redistribute the code in any way you wish for
+# non-commercial purposes, but please maintain the name of the original author.
+# This code comes with no warranty of any kind.
+
+# LDA ALGORITHM
+
+*/
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 PROJECT(LDA)
 
