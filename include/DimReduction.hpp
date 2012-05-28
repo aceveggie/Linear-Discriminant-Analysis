@@ -1,6 +1,27 @@
+/*
+\
+This is a re-implementation of the LDA algorithm idea in C++.
+
+Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+
+ORIGINAL AUTHORS: Stephen Marsland, Phillip Wagner
+
+MODIFIED BY: RAHuL KAVI
+
+# You are free to use, change, or redistribute the code in any way you wish for
+# non-commercial purposes, but please maintain the name of the original author.
+# This code comes with no warranty of any kind.
+
+#
+# You are free to use, change, or redistribute the code in any way you wish for
+# non-commercial purposes, but please maintain the name of the original author.
+# This code comes with no warranty of any kind.
+
+# LDA ALGORITHM
+
+*/
 #ifndef __DIMREDUCTION_HPP__
 #define __DIMREDUCTION_HPP__
-
 
 
 #include<iostream>
