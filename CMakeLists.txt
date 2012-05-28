@@ -1,12 +1,10 @@
-/*
-\
-This is a re-implementation of the LDA algorithm idea in C++.
+#This is a re-implementation of the LDA algorithm idea in C++.
 
-Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+#Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
 
-ORIGINAL AUTHORS: Phillip Wagner
+#ORIGINAL AUTHORS: Phillip Wagner
 
-MODIFIED BY: RAHUL KAVI
+#MODIFIED BY: RAHUL KAVI
 
 # You are free to use, change, or redistribute the code in any way you wish for
 # non-commercial purposes, but please maintain the name of the original author.
@@ -19,7 +17,7 @@ MODIFIED BY: RAHUL KAVI
 
 # LDA ALGORITHM
 
-*/
+
 CMAKE_MINIMUM_REQUIRED(VERSION 2.6)
 PROJECT(LDA)
 
