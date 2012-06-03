@@ -2,11 +2,11 @@
 \
 This is a re-implementation of the LDA algorithm idea in C++.
 
-Idea borrowed from http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+Idea borrowed from
+1) Stephen Marsland http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
+2) Phillip Wagner https://github.com/bytefish/opencv
 
-ORIGINAL AUTHORS: Stephen Marsland, Phillip Wagner
-
-MODIFIED BY: RAHUL KAVI
+AUTHOR: RAHUL KAVI
 
 # You are free to use, change, or redistribute the code in any way you wish for
 # non-commercial purposes, but please maintain the name of the original author.
