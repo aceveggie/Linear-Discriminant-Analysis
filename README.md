@@ -20,5 +20,9 @@ or follow the following steps (for ubuntu):
 <li>make</li>
 <li>./LDA</li>
 </ol>
+THINGS TO DO:
+
+1) Add CvStatModel. i.e. inherit from CvStatModel class for more tighter integration in OpenCV.
+
 NOTE:
 This code is in Beta and may be buggy. Its currently under development.
