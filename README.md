@@ -3,8 +3,8 @@ Linear-Discriminant-Analysis
 
 A small <b>C++</b> library to perform 2 class <b>Linear Discriminant Analysis</b> using <b>Eigen Library</b> for <b>OpenCV</b>.
 
-This was highly inspired by <a href="http://www-ist.massey.ac.nz/smarsland/MLBook.html">Stephen Marshland's "Machine Learning: An Algorithmic Perspective"</a>
-implementation in Python(this is re-implementation of the same in C++) and also based on <a href="http://www.bytefish.de/">Byte Fish </a> implementation of the LDA in C++.
+This was inspired by <a href="http://www-ist.massey.ac.nz/smarsland/MLBook.html">Stephen Marshland's "Machine Learning: An Algorithmic Perspective"</a>
+implementation in Python(this is re-implementation of the same in C++).
 
 Linear Discriminant Analysis is a statistical techinque which is used in <b>Dimensionality Reduction</b> and also for classification of data.
 
