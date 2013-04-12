@@ -4,7 +4,6 @@ This is a re-implementation of the LDA algorithm idea in C++.
 
 Idea borrowed from
 1) Stephen Marsland http://seat.massey.ac.nz/personal/s.r.marsland/MLBook.html
-2) Phillip Wagner https://github.com/bytefish/opencv
 
 AUTHOR: RAHUL KAVI
 
